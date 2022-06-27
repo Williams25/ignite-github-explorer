@@ -14,6 +14,6 @@
 
 ## :mag: Sobre
 
-- Projeto criado com base no curso de Fundamentos do React bootcamp IGNITE - [Rocketseat](https://github.com/Rocketseat).
+- Projeto criado com base no curso de Fundamentos do React (IGNITE - [Rocketseat](https://github.com/Rocketseat)).
 
 <img src="https://media.graphassets.com/eWalWbKvTqGwZKSpJIJg" alt="imagem ignite" />
