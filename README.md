@@ -12,7 +12,7 @@
 - [Node.js](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/getting-started)
 
-## Sobre
+## :mag: Sobre
 
 - Projeto criado com base no curso de Fundamentos do React bootcamp IGNITE - [Rocketseat](https://github.com/Rocketseat).
 
